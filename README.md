@@ -1,1 +1,6 @@
-# js_string
+
+
+* split string to array 
+```
+'string'.split(' ')
+```
