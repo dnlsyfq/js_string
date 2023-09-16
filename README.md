@@ -13,6 +13,7 @@
 'string'.startsWith(char)
 'string'.toUpperCase()
 'string'.trim()
+'string'.split('').reverse().join('')
 ```
 
 ### Regex
