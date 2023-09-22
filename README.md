@@ -1,3 +1,12 @@
+* string  new line
+```
+console.log("One \nTwo \nThree");
+```
+
+* string tab
+```
+console.log("\t hey \t there");
+```
 
 
 * split string to array 
