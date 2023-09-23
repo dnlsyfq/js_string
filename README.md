@@ -1,3 +1,13 @@
+* string template literals
+```
+let msg = `Hey! Are you sololearning?
+Isn't it awesome?`;
+
+let name = "John";
+let text = `Welcome, ${name}`;
+console.log(text);
+```
+
 * string  new line
 ```
 console.log("One \nTwo \nThree");
