@@ -18,6 +18,14 @@ console.log("One \nTwo \nThree");
 console.log("\t hey \t there");
 ```
 
+* string multiline
+```
+const multiline = " Hello \
+  Welcome \
+  
+"
+```
+
 
 * split string to array 
 ```
