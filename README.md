@@ -1,3 +1,13 @@
+* user input
+```
+var usr = prompt('');
+```
+
+* pop up
+```
+alert()
+```
+
 * string template literals
 ```
 let msg = `Hey! Are you sololearning?
@@ -36,7 +46,7 @@ const multiline = " Hello \
 * string properties
 ```
 'string'.length
-'string'.toUpperCase()
+'string'.toLowerCase()
 'string'.startsWith(char)
 'string'.toUpperCase()
 'string'.trim()
